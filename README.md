@@ -34,10 +34,10 @@
 
 ![zadanie2](https://github.com/ottofonciceron-coder/Vulnerabilities-and-attacks-on-information-systems-13-01-hw/blob/main/FIN-сканирование.png)`
 
-![zadanie2](https://github.com/Vulnerabilities-and-attacks-on-information-systems-13-01-hw/blob/main/SYN-scan.png)`
+![zadanie2](https://github.com/ottofonciceron-coder/Vulnerabilities-and-attacks-on-information-systems-13-01-hw/blob/main/SYN-scan.png)`
 
-![zadanie2](https://github.com/Vulnerabilities-and-attacks-on-information-systems-13-01-hw/blob/main/XMAS%20scan.png)`
+![zadanie2](https://github.com/ottofonciceron-coder/Vulnerabilities-and-attacks-on-information-systems-13-01-hw/blob/main/XMAS%20scan.png)`
 
-![zadanie2](https://github.com/Vulnerabilities-and-attacks-on-information-systems-13-01-hw/blob/main/UDP%20scan.png)`
+![zadanie2](https://github.com/ottofonciceron-coder/Vulnerabilities-and-attacks-on-information-systems-13-01-hw/blob/main/UDP%20scan.png)`
 
 ---
